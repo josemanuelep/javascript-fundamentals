@@ -1,0 +1,25 @@
+{
+  "name": "javascript-fundamentals",
+  "version": "1.0.0",
+  "description": "Studying Javascript",
+  "main": "exercise-1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josemanuelep/javascript-fundamentals.git"
+  },
+  "keywords": [
+    "javascript",
+    "npm",
+    "best",
+    "practices"
+  ],
+  "author": "josemanuelep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josemanuelep/javascript-fundamentals/issues"
+  },
+  "homepage": "https://github.com/josemanuelep/javascript-fundamentals#readme"
+}
